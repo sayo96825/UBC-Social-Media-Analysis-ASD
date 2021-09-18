@@ -8,7 +8,6 @@ On the String branch, there is the deture to put all the String sorted in alphab
 It is very simple feture. You just need to run it. 
 There are 3 branch in total and it is merged successfully.
 
-For the video demo, I had github and VSC open in side by side and did built-in screen capture.
-But I realized it was only catureing the github window. 
-After looking into it, my understanding is that I need other program to do multi windows capture or edit two video together.
-I am just sending in the making change part of the video separately at this time. 
+For the video demo, I had GitHub and VSC open side by side and did a built-in screen capture. But I realized it was only capturing the GitHub window. After looking into it, my understanding is that I need another program to do multi-windows capture or edit two videos together.
+
+I sent the making change part of the video separately through canvas at this time.
