@@ -1,6 +1,6 @@
 ### UBCO COSC 419 Social Computing Project: 
 Social Media Data Analysis on Autism Spectrum Disorder
-- Reddit
+📊 Reddit
 - Network analysis <br>
 ![image](https://user-images.githubusercontent.com/62345938/212199598-7666e6e9-d572-45e9-966b-bd57c808b0e3.png)
 
